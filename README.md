@@ -10,6 +10,7 @@ Developed an interactive dashboard in Power BI to analyze and manage inventory f
 **Objectives:**
 
 Track stock levels, stock movement, and reorder needs for all SKUs
+
 Classify inventory using ABC and XYZ methods
 
 Calculate key metrics like inventory turnover, safety stock, and weekly demand
