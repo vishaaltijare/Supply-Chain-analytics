@@ -35,7 +35,7 @@ Bottom-10 SKUs report for urgent replenishment
 
 **My Key Learnings:**
 
-Mastered advanced DAX (SUMX, DIVIDE, SWITCH), Power BI ETL and data modeling, applied ABC/XYZ, turnover, and safety stock concepts, and designed an operations-ready dashboard for supply-chain decision support.
+Mastered advanced DAX, Power BI ETL and data modeling, applied ABC/XYZ, turnover, and safety stock concepts, and designed an operations-ready dashboard for supply-chain decision support.
 
 
 
