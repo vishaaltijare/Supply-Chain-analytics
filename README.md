@@ -38,6 +38,9 @@ Bottom-10 SKUs report for urgent replenishment
 Mastered advanced DAX, Power BI ETL and data modeling, applied ABC/XYZ, turnover, and safety stock concepts, and designed an operations-ready dashboard for supply-chain decision support.
 
 
+**Interactive Dashboard link**
+
+https://app.powerbi.com/view?r=eyJrIjoiZGQ3OWVjNTItNDc5NC00ODI5LTk0ZGEtM2IyMDEyZDEyOGZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
 
