@@ -1,4 +1,4 @@
-**__Inventory Management Dashboard using Power BI__**
+### **__Inventory Management Dashboard using Power BI__**
 
 **__Project Overview:__**  
 An interactive Power BI dashboard was developed to manage inventory for 303 SKUs over 12 months. It consolidates Excel data, performs ETL, and leverages DAX measures and visuals to deliver real-time insights on stock levels, value, and movement.
