@@ -8,16 +8,16 @@ Track real-time stock and transactions for 303 SKUs, apply ABC (70/20/10) and XY
 
 **__Screenshots of the Dashboard and Data Model__**
 
-**Power BI Dashboard Preview:**
+**Data Model View:**
 
 ![Power BI Dashboard](Screenshots/supply%20chain%20screenshot%202%20(1).jpg)
 
-**Data Model View:**
+**Dashboard View:**
 
 ![Data Model](Screenshots/supply%20chain%20screenshot%201.jpg)
 
 **__Sample Dataset Used__**  
-You can download the Excel data used for building this dashboard here:
+
 
 📥 [Inventory Data.xlsx](Dataset/Inventory%20Data.xlsx)
 
